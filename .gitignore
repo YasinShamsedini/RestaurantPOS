@@ -1,0 +1,59 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# Distribution / packaging
+.eggs/
+dist/
+build/
+develop-eggs/
+parts/
+wheels/
+eggs/
+.bdist*
+.egg-info/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+
+# SQL Server Files
+*.ldf
+*.mdf
+*.bak
+*.trn
+*.sqlbak
+*.ssmssln
+*.suo
+
+# OS generated files
+.DS_Store
+ehthumbs.db
+Icon\r
+[Tt]humbs.db
+
+# Project-specific
+config.ini  # Or whatever your config file is called
+*.log
+
+#Virtual Enviroment
+.env
+*.env
+/venv
+
+# Random Files
+.swp
+*jnk~
