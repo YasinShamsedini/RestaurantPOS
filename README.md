@@ -6,7 +6,7 @@
 
 ## Overview 📝
 
-The Restaurant POS System is a Python-based application designed to streamline restaurant operations, focusing on ease of use and intuitive design. This project, developed collaboratively with AI assistance over approximately 25 hours, leverages Tkinter/CustomTkinter for a user-friendly GUI and SQL Server for persistent data storage. The primary goal was to create a system that is both accessible and easy to learn, minimizing any potential friction for users.
+The Restaurant POS System is a simple, user-friendly application that I built using Python to make restaurant operations easier and more efficient. The project took about 25 hours to develop, and my main focus was on creating an intuitive and straightforward design. I used Tkinter and or CustomTkinter for the GUI to ensure it’s easy to use, and SQL Server for data storage. My goal was to create a system that’s not only easy to learn but also smooth for users, without any unnecessary complexity, to make managing a restaurant much simpler.
 
 ## Key Features ✨
 
