@@ -103,4 +103,4 @@ Here's the lowdown on how you can help make this project even better:
 If you're stuck or have any questions, don't hesitate to:
 
 *   Open an issue here on GitHub.
-*   Shoot me an email at [THIS](yasin.shamsedini.com).
+*   Shoot me an email at [THIS](yasin.shamsedini@gmail.com).
