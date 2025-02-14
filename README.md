@@ -21,6 +21,15 @@ The Restaurant POS System is a Python-based application designed to streamline r
 *   **CRUD Functionality:** ⚙️ Complete Create, Read, Update, and Delete (CRUD) operations for all managed entities (tables, menu items, discounts, users, etc.).
 *   **Order Item Management**: 🗑️ Automatic removal of orders or single items, with capability to transfer or remove from customer order list.
 
+<br><br>
+
+![Alt Text](https://github.com/YasinShamsedini/RestaurantPOS/blob/main/images/orderingpos.JPG)
+<br><br>
+![Alt Text](https://github.com/YasinShamsedini/RestaurantPOS/blob/main/images/reportpos.JPG)
+<br><br>
+![Alt Text](https://github.com/YasinShamsedini/RestaurantPOS/blob/main/images/managementpos.JPG)
+<br><br>
+
 ## Technologies Used 💻
 
 *   **Python:** Programming language for the application logic.
